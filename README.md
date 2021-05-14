@@ -19,21 +19,11 @@ For example the relative directories looks as follows:
 
 * [PyBank](PyBank/)
   * [Resources](PyBank/Resources/budget_data.csv)
-  * [Main Code](PyBank/main.py)
   * [Analysis output](PyBank/Analysis/pyBank_output.txt)
 * [PyPoll](PyPoll/)
   * [Resources](PyPoll/Resources/)
-  * [Main Code](PyPoll/main.py)
   * [Analysis output](PyPoll/Analysis/pyPoll_output.txt)
-* [PyBoss](PyBoss/)
-  * [Resources](PyBoss/Resources/employee_data.csv)
-  * [Main Code](PyBoss/main.py)
-  * [Analysis output](PyBoss/Analysis/pyBoss_output.txt)
-* [PyParagraph](PyParagraph/)
-  * [Resources](PyParagraph/Resources/)
-  * [Main Code](PyParagraph/main.py)
-  * [Analysis output](PyParagraph/Analysis/pyParagraph_output.txt)
-  
+
 ## PyBank
 In this challenge, a python script created to analyze the financial data of a company and give an output. The dataset [budget data](PyBank/Resources/budget_data.csv) is composed of two columns: `Date` and `Profit/Losses`.
 
