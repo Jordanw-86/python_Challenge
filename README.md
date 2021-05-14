@@ -1,14 +1,8 @@
 # python_Challenge
 
 ## Background
-This repository brings a python solution for real-life situations. The situations encompass financial, election, human resources, and linguistic research data. The financial data sourced under [PyBank/Resources](PyBank/Resources/budget_data.csv) folder, the election data sourced under [PyPoll/Resources](PyPoll/Resources/) folder, the human resource data sourced under [ PyBoss/Resources](PyBoss/Resources/employee_data.csv) folder, and the research data sourced under [PyParagraph/Resources](PyParagraph/Resources) folder.
+This repository brings a python solution for real-life situations. The situations encompass financial, election, human resources, and linguistic research data. The financial data sourced under [PyBank/Resources](PyBank/Resources/budget_data.csv) folder, the election data sourced under [PyPoll/Resources](PyPoll/Resources/)folder.
 
-The code's organized to analyze the data, and create an output file in the Analysis subfolder in each project.
-
-
-Note : All the main codes are set up to the relative path to be auto-adjusted in your working directory, however, the path in the video below is just my directory for demonstration.
-
-For example the relative directories looks as follows:
 
  To import         `data_path=os.path.join('Resources', 'budget_data.csv')`
  
